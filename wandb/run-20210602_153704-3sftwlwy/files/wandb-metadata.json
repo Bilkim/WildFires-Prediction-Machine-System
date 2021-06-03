@@ -1,0 +1,21 @@
+{
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.8.5",
+    "heartbeatAt": "2021-06-02T12:37:11.155732",
+    "startedAt": "2021-06-02T12:37:04.717080",
+    "docker": null,
+    "gpu": "GeForce GT 720M",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "-f",
+        "C:\\Users\\Bill\\AppData\\Roaming\\jupyter\\runtime\\kernel-7016e65b-1564-4217-8cad-b15e6213639c.json"
+    ],
+    "state": "running",
+    "program": "Documents/Class Work/Principles of Datascience/Forest Fires Prediction Model/ForestFires.ipynb",
+    "root": "C:\\Users\\Bill",
+    "host": "DESKTOP-L39MMJH",
+    "username": "Bill",
+    "executable": "C:\\Users\\Bill\\anaconda3\\python.exe"
+}
